@@ -117,7 +117,3 @@ Submit a Pull Request
 📜 License
 This project is licensed under the MIT License.
 
-💬 Contact & Support
-For any queries or suggestions, reach out via:
-📧 Email: your-email@example.com
-🔗 LinkedIn: Your LinkedIn Profile
